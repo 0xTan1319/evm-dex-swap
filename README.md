@@ -1,7 +1,10 @@
 # EVM-Dex-Swap
 
 EVM-Dex-Swap is a decentralized exchange (DEX) platform built to support token swaps, staking, and liquidity management across all EVM-compatible blockchains. This repository provides a toolkit for developers to implement and customize their own decentralized exchange solutions with integrated features like staking contracts and liquidity pool management.
+
+
 ![Untitled](https://github.com/user-attachments/assets/7d7a3a5b-e032-46e1-8978-3a24efc39ba7)
+
 
 ## Features
 
@@ -19,3 +22,9 @@ To get started with EVM-Dex-Swap, clone this repository and install dependencies
 git clone https://github.com/yourusername/EVM-dex-swap.git
 cd EVM-dex-swap
 npm install
+```
+
+## 👤 Author
+
+### Telegram: [Meta0xFlip](https://t.me/Meta0xFlip)   
+https://t.me/Meta0xFlip
