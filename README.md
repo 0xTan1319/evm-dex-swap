@@ -16,7 +16,7 @@ Also can intergrate with other dex swap like wolfswap and uniswap so that provid
 - **Fully Decentralized**: No centralized intermediary, fully trustless.
 
 
-  Project can help you launch new tokens and also provide bots to increase volume like volume bot or other services.
+ ** Project can help you launch new tokens and also provide bots to increase volume like volume bot or other services.
 
 
 ## Installation
