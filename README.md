@@ -16,6 +16,7 @@ EVM-Dex-Swap is a decentralized exchange (DEX) platform built to support token s
 
 ## Installation
 
+This is just Frontend code.
 To get started with EVM-Dex-Swap, clone this repository and install dependencies.
 
 ```bash
@@ -26,5 +27,7 @@ npm install
 
 ## 👤 Author
 
+Frontend is opensource.
+To get smart contracts and admin-managemant site, Feel free to contact Me!
 ### Telegram: [Meta0xFlip](https://t.me/Meta0xFlip)   
 https://t.me/Meta0xFlip
