@@ -1,0 +1,1 @@
+export type Token = { name: string, symbol: string, isNative: boolean, address: string, decimal: number, balance: number }

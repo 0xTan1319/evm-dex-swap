@@ -1,0 +1,77 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #222427;
+  --foreground: #171717;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #222427;
+    --foreground: #ffffff;
+  }
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
+
+.two-arrrow-icon {
+  content: "\f362";
+}
+
+.numberInput {
+  -moz-appearance: textfield; /* Firefox */
+}
+
+.numberInput::-webkit-outer-spin-button,
+.numberInput::-webkit-inner-spin-button {
+  -webkit-appearance: none; /* Safari and Chrome */
+  margin: 0;
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #212428;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #727272;
+  border-radius: 5px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+.toast-message {
+  width: fit-content;
+}
+
+.bg-blur-black {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(50, 50, 50, 0.5); /* Black overlay with opacity */
+  backdrop-filter: blur(10px); /* Adjust the blur intensity */
+  /* z-index: -1; */
+}
