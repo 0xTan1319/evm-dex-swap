@@ -28,6 +28,6 @@ npm install
 ## 👤 Author
 
 Frontend is opensource.
-To get smart contracts and admin-managemant site, Feel free to contact Me!
+To get more functions for frontend, swap & liquidity & staking smart contracts and liquidity-admin-managemant site, Feel free to contact Me!
 ### Telegram: [Meta0xFlip](https://t.me/Meta0xFlip)   
 https://t.me/Meta0xFlip
