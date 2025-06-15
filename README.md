@@ -1,40 +1,41 @@
-# 🔭  EVM-Dex **Swap-Liquidity-Staking** Platform  🔭
+#  EVM-Dex **Swap-Liquidity-Staking** Platform 
 
-_EVM-Dex **Swap-Liquidity-Staking** Platform_ is a decentralized exchange (DEX) platform built to support token swaps, staking, and liquidity management across all EVM-compatible blockchains. This project provides a toolkit for developers to implement and customize their own decentralized exchange solutions with integrated features like staking contracts and liquidity pool management.
-Also can intergrate with other dex swap like wolfswap and uniswap so that provide users the best swap.
+EVM-Dex Swap is a fully decentralized exchange (DEX) platform designed to support seamless token swaps, staking, and liquidity management across all EVM-compatible blockchains. It offers a robust developer toolkit for building and customizing decentralized exchange solutions, complete with integrated staking contracts and liquidity pool management. EVM-Dex also supports integration with external DEXs such as Uniswap and Wolfswap, enabling users to access optimal swap rates and deep liquidity across multiple sources.
 
+## Contact
+
+If you have any question, contact here: [Telegram](https://t.me/shiny0103) | [Twitter](https://x.com/0xTan1319)
 
 ![Untitled](https://github.com/user-attachments/assets/7d7a3a5b-e032-46e1-8978-3a24efc39ba7)
 
 
-## Features
+## Key Features
 
-- **Token Swaps**: Allows users to swap tokens on any EVM chain using their own router or can intergrate with other swaps.
-- **Staking**: Supports staking on customizable contracts and provide rewards.
-- **Liquidity Management**: Users can add and remove liquidity on their own factory and router.
-- **Cross-Chain Compatibility**: Can be deployed across all EVM-compatible blockchains (Ethereum, Binance Smart Chain, Polygon, Avalanche, etc.).
-- **Fully Decentralized**: No centralized intermediary, fully trustless.
+- Token Swaps : 
+Seamlessly swap tokens across any EVM-compatible chain using a custom router or by integrating with leading decentralized exchanges.
 
+- Staking Mechanism : 
+Enable users to stake tokens via customizable smart contracts, with flexible reward distribution and staking parameters.
 
- ** Project can help you launch new tokens and also provide bots to increase volume like volume bot or other services.
+- Liquidity Management : 
+Provide tools for users to add or remove liquidity through their own factory and router, empowering decentralized market creation.
+
+- Cross-Chain Deployment : 
+Fully compatible with all EVM-based blockchains, including Ethereum, BNB Chain, Polygon, Avalanche, and more—enabling broad ecosystem reach.
+
+- Decentralized Architecture : 
+Designed to be entirely trustless and permissionless, with no reliance on centralized entities or intermediaries.
+ices.
 
 
 ## Installation
 
-This is just Frontend code.
-To get started with EVM-Dex-Swap, clone this repository and install dependencies.
 
 ```bash
-git clone https://github.com/yourusername/EVM-dex-swap.git
+git clone https://github.com/0xTan1319/EVM-dex-swap.git
 cd EVM-dex-swap
 npm install
 ```
 
-Frontend is opensource.
-To get more functions for frontend, swap & liquidity & staking smart contracts and liquidity-admin-managemant site, Feel free to contact Me!
-
-# 👨‍💻 Author
-### 📞 Telegram: [0xOpsDev](https://t.me/its0xopsdev)   
-https://t.me/its0xopsdev
 
 
